@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TZ/kRtw24GLz3qKajlVE797AhUy3s7ibEWDzjiFNwn9mpd32eNrZQIezFvGP4p/28HlEZxArMDAcOwfRHdcJLA==",
+  "dgSpecHash": "EwUxueylwxqDS7sQBfZpXJjhwV80DLnryJL1pxfpKqkLbOYq+badl/BEghfkhWjZv+yttoAygWjsjNdBHBYyHg==",
   "success": true,
-  "projectFilePath": "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
+  "projectFilePath": "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Frank\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Frank\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

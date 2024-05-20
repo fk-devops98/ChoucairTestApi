@@ -20,6 +20,9 @@ string cnnString = config.GetConnectionString("database");
 string applicationDllName = "ChoucairTest.Application";
 string policyCorsName = "Autorizar";
 
+bool useDatabaseInMemory = config.GetValue("DatabaseSettings:UseDatabaseInMemory", false);
+string databaseInMemoryName = config.GetValue("DatabaseSettings:DatabaseInMemoryName", string.Empty);
+
 string[] acceptedMethodsHttp = { "GET", "PUT", "POST", "DELETE" };
 string[] acceptedOrigins = { "http://localhost:4200" };
 
@@ -50,7 +53,15 @@ builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
 builder.Services.AddDbContext<PersistenceContext>(opt =>
 {
-    opt.UseSqlServer(cnnString);
+    if (useDatabaseInMemory)
+    {
+        opt.UseInMemoryDatabase(databaseInMemoryName);   
+    }
+
+    if (!useDatabaseInMemory)
+    {
+        opt.UseSqlServer(cnnString);
+    }
 });
 
 builder.Services

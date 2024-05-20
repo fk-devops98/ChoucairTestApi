@@ -2930,11 +2930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
+      "projectUniqueName": "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
       "projectName": "ChoucairTest.Infrastructure",
-      "projectPath": "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
+      "projectPath": "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\ChoucairTest.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Frank\\.nuget\\packages\\",
-      "outputPath": "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\obj\\",
+      "outputPath": "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2958,8 +2958,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Domain\\ChoucairTest.Domain.csproj": {
-              "projectPath": "E:\\DevOps\\ME\\ENT\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Domain\\ChoucairTest.Domain.csproj"
+            "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Domain\\ChoucairTest.Domain.csproj": {
+              "projectPath": "E:\\DevOps\\CHOUCAIR TESTING\\Repos\\ChoucairTestApi\\ChoucairTest.Domain\\ChoucairTest.Domain.csproj"
             }
           }
         }
