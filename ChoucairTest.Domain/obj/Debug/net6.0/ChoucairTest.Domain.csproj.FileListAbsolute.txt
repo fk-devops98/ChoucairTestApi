@@ -1,0 +1,12 @@
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\bin\Debug\net6.0\ChoucairTest.Domain.deps.json
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\bin\Debug\net6.0\ChoucairTest.Domain.dll
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\bin\Debug\net6.0\ChoucairTest.Domain.pdb
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.csproj.AssemblyReference.cache
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.AssemblyInfoInputs.cache
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.AssemblyInfo.cs
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.csproj.CoreCompileInputs.cache
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.dll
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\refint\ChoucairTest.Domain.dll
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ChoucairTest.Domain.pdb
+E:\DevOps\ME\ENT\CHOUCAIR TESTING\Repos\ChoucairTestApi\ChoucairTest.Domain\obj\Debug\net6.0\ref\ChoucairTest.Domain.dll

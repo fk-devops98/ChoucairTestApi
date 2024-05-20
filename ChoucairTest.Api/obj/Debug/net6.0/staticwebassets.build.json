@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0a4wVHwNokTCkrpzfgWlQntavpRvVCOSi0yU/sHYBCs=",
+  "Source": "ChoucairTest.Api",
+  "BasePath": "_content/ChoucairTest.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
